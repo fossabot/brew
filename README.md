@@ -1,5 +1,6 @@
 # Homebrew
 [![GitHub release](https://img.shields.io/github/release/Homebrew/brew.svg)](https://github.com/Homebrew/brew/releases)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fbrew.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fbrew?ref=badge_shield)
 
 Features, usage and installation instructions are [summarised on the homepage](https://brew.sh). Terminology (e.g. the difference between a Cellar, Tap, Cask and so forth) is [explained here](https://docs.brew.sh/Formula-Cookbook#homebrew-terminology).
 
@@ -55,6 +56,9 @@ Former maintainers with significant contributions include [JCount](https://githu
 ## License
 Code is under the [BSD 2-clause "Simplified" License](LICENSE.txt).
 Documentation is under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Fbrew.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Fbrew?ref=badge_large)
 
 ## Donations
 Homebrew is a non-profit project run entirely by unpaid volunteers. We need your funds to pay for software, hardware and hosting around continuous integration and future improvements to the project. Every donation will be spent on making Homebrew better for our users.
